@@ -12,7 +12,6 @@ My GitHub User adalah aplikasi Android yang memungkinkan pengguna untuk mencari 
 - [Penggunaan](#penggunaan)
 - [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
-- [Kontak](#kontak)
 
 ## Fitur
 - Mendapatkan informasi pengguna GitHub.
