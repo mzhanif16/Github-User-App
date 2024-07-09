@@ -1,7 +1,6 @@
 # GitHub User App
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build](https://github.com/username/my-github-user/actions/workflows/build.yml/badge.svg)
 
 ## Deskripsi Singkat
 My GitHub User adalah aplikasi Android yang memungkinkan pengguna untuk mencari informasi pengguna GitHub, melihat repositori mereka, dan mencari pengguna lainnya. Aplikasi ini dibangun dengan menggunakan arsitektur bersih dan modularisasi untuk meningkatkan skalabilitas dan maintainability.
