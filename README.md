@@ -41,8 +41,7 @@ Aplikasi ini mengikuti prinsip arsitektur bersih dan modularisasi. Struktur utam
 ### Langkah-langkah
 1. Clone repositori:
     ```sh
-    git clone https://github.com/username/my-github-user.git
-    cd my-github-user
+    git clone https://github.com/mzhanif16/Github-User-App.git
     ```
 2. Buka proyek di Android Studio.
 3. Sinkronkan proyek dengan Gradle.
