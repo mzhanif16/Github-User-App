@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".activity.LoginActivity"
+    tools:ignore="UseCompoundDrawables">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/githublogo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign in to Github"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:layout_marginTop="32dp"/>
+
+    <EditText
+        android:id="@+id/edt_token"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="your token access"
+        android:paddingStart="20dp"
+        android:layout_marginTop="22dp"
+        android:background="@drawable/bg_input_text"
+        android:layout_marginHorizontal="82dp"
+        tools:ignore="RtlSymmetry" />
+    
+    <Button
+        android:id="@+id/btn_sign_in"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="47dp"
+        android:text="Sign in"
+        android:fontFamily="@font/poppins_medium"
+        android:textColor="@color/white"
+        android:textSize="12sp"
+        style="@style/Widget.Material3.Button.ElevatedButton"
+        android:backgroundTint="@color/black"
+        android:layout_marginHorizontal="82dp"/>
+
+
+</LinearLayout>
